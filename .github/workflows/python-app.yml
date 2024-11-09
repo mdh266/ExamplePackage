@@ -29,7 +29,7 @@ jobs:
         pip install uv
         uv build 
         uv venv
-        uv pip install dist/mike_example-0.1.0-py3-none-any.whl
+        pip install dist/mike_example-0.1.0-py3-none-any.whl
     - name: Lint with ruff
       run: |
         ruff format mike_example
