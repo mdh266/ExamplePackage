@@ -1,6 +1,4 @@
-https://github.com/mdh266/ExamplePackage/actions/workflows/python-app.yml/badge.svg
-
-# ExamplePackage
+# ![ExamplePackage](https://github.com/mdh266/ExamplePackage/actions/workflows/python-app.yml/badge.svg)
 -------------
 A simple example demonstrating how to build a package using [uv](https://docs.astral.sh/uv/), and [ruff](https://astral.sh/ruff)
 
