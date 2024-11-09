@@ -1,0 +1,13 @@
+[project]
+name = "mike_example"
+version = "0.1.0"
+description = "Example Commandlinke Project"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+  {name = "Mike Harmon", email = "mdh266@gmail.com"}
+]
+dependencies = [
+    "pytest>=8.3.3",
+    "ruff>=0.7.3",
+]
